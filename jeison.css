@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(202, 30, 30);
+}
+
+
+h1{
+    align-items: center;
+    display: flex;
+    justify-content: center ;
+}
+.modelo{
+    align-items: center;
+    display: flex;
+    justify-content: center ;
+
+}
+
+.marca{
+    
+    align-items: center;
+    display: flex;
+    justify-content: center ;
+
+}
+
+button{
+
+    align-items: center;
+    display: flex;
+    justify-content: center ;
+}
+
+.tudo{
+
+    background-color: aliceblue;
+}
